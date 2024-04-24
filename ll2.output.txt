@@ -1,0 +1,32 @@
+Print linked list-----------------
+Item: 0
+Item: 1
+Item: 2
+Item: 3
+Item: 4
+
+Remove head element-------------------
+Item: 1
+Item: 2
+Item: 3
+Item: 4
+
+Remove internal element-----------------------
+Item: 1
+Item: 3
+Item: 4
+
+dump and show pointers
+----------------------
+Item: 1
+   no prev
+   next : Item: 3
+Item: 3
+   prev : Item: 1
+   next : Item: 4
+Item: 4
+   prev : Item: 3
+  no next
+
+empty list print
+----------------
